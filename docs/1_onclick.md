@@ -1,1 +1,1 @@
-[alt text](/images/chattrigger.png)
+![alt text](/image/chattrigger.png)
